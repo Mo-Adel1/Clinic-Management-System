@@ -1,0 +1,17 @@
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\bin\Release\My Clinic.exe.config
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\bin\Release\CLINIC_DATABASE_log.ldf
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\bin\Release\CLINIC_DATABASE.mdf
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\bin\Release\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\bin\Release\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My_Clinic.Admin_Form.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My_Clinic.All_Patients_form.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My_Clinic.All_Staff_Form.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My_Clinic.Login.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My_Clinic.Properties.Resources.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My_Clinic.Recover_Your_Account.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My_Clinic.Recovery_Number.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My_Clinic.ResetYourData.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My_Clinic.User.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My Clinic.csproj.GenerateResource.Cache
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Release\My Clinic.pdb

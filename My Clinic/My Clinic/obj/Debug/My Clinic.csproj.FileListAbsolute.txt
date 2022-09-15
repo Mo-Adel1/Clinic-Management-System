@@ -1,0 +1,128 @@
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\bin\Debug\My Clinic.exe.config
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\bin\Debug\My Clinic.exe
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\bin\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\obj\Debug\My Clinic.csprojResolveAssemblyReference.cache
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\obj\Debug\My_Clinic.Properties.Resources.resources
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\obj\Debug\My Clinic.csproj.GenerateResource.Cache
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\obj\Debug\My Clinic.exe
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\obj\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\bin\Debug\Database.mdf
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\bin\Debug\Database_log.ldf
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\obj\Debug\My_Clinic.Form1.resources
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\obj\Debug\My_Clinic.Login.resources
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\obj\Debug\My_Clinic.Section.resources
+C:\Users\dr\Desktop\Coursera\My Clinic\My Clinic\obj\Debug\My_Clinic.Admin_Form.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\bin\Debug\CLINIC_DATABASE.mdf
+C:\Users\dr\Desktop\My Clinic\My Clinic\bin\Debug\CLINIC_DATABASE_log.ldf
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My Clinic.csprojResolveAssemblyReference.cache
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.Admin_Form.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.All_Patients_form.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.Form1.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.Form2.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.Login.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.Properties.Resources.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.Recover_Your_Account.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.Recovery_Number.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.ResetYourData.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.Section.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.User.resources
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My Clinic.csproj.GenerateResource.Cache
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic\My Clinic\bin\Debug\My Clinic.exe.config
+C:\Users\dr\Desktop\My Clinic\My Clinic\bin\Debug\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic\My Clinic\bin\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic\My Clinic\obj\Debug\My_Clinic.All_Staff_Form.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\bin\Debug\My Clinic.exe.config
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\bin\Debug\CLINIC_DATABASE.mdf
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\bin\Debug\CLINIC_DATABASE_log.ldf
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\bin\Debug\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\bin\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My Clinic.csprojResolveAssemblyReference.cache
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.Admin_Form.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.All_Patients_form.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.All_Staff_Form.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.Form1.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.Form2.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.Login.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.Properties.Resources.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.Recover_Your_Account.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.Recovery_Number.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.ResetYourData.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.Section.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My_Clinic.User.resources
+C:\Users\dr\Desktop\My Clinic(v2)\My Clinic\obj\Debug\My Clinic.csproj.GenerateResource.Cache
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\bin\Debug\My Clinic.exe.config
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\bin\Debug\CLINIC_DATABASE_log.ldf
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\bin\Debug\CLINIC_DATABASE.mdf
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\bin\Debug\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\bin\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My Clinic.csprojResolveAssemblyReference.cache
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My_Clinic.Admin_Form.resources
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My_Clinic.All_Patients_form.resources
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My_Clinic.All_Staff_Form.resources
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My_Clinic.Login.resources
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My_Clinic.Properties.Resources.resources
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My_Clinic.Recover_Your_Account.resources
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My_Clinic.Recovery_Number.resources
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My_Clinic.ResetYourData.resources
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My_Clinic.User.resources
+C:\Users\dr\Desktop\My Clinic(v3)\My Clinic\obj\Debug\My Clinic.csproj.GenerateResource.Cache
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\bin\Debug\My Clinic.exe.config
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\bin\Debug\CLINIC_DATABASE_log.ldf
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\bin\Debug\CLINIC_DATABASE.mdf
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\bin\Debug\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\bin\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My Clinic.csprojResolveAssemblyReference.cache
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My_Clinic.Admin_Form.resources
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My_Clinic.All_Patients_form.resources
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My_Clinic.All_Staff_Form.resources
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My_Clinic.Login.resources
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My_Clinic.Properties.Resources.resources
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My_Clinic.Recover_Your_Account.resources
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My_Clinic.Recovery_Number.resources
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My_Clinic.ResetYourData.resources
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My_Clinic.User.resources
+C:\Users\dr\Desktop\My Clinic(v4)\My Clinic\obj\Debug\My Clinic.csproj.GenerateResource.Cache
+H:\My Clinic(v5)\My Clinic\bin\Debug\My Clinic.exe.config
+H:\My Clinic(v5)\My Clinic\obj\Debug\My Clinic.exe
+H:\My Clinic(v5)\My Clinic\obj\Debug\My Clinic.pdb
+H:\My Clinic(v5)\My Clinic\obj\Debug\My Clinic.csprojResolveAssemblyReference.cache
+H:\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.Admin_Form.resources
+H:\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.All_Patients_form.resources
+H:\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.All_Staff_Form.resources
+H:\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.Login.resources
+H:\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.Properties.Resources.resources
+H:\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.Recover_Your_Account.resources
+H:\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.Recovery_Number.resources
+H:\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.ResetYourData.resources
+H:\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.User.resources
+H:\My Clinic(v5)\My Clinic\obj\Debug\My Clinic.csproj.GenerateResource.Cache
+H:\My Clinic(v5)\My Clinic\bin\Debug\CLINIC_DATABASE_log.ldf
+H:\My Clinic(v5)\My Clinic\bin\Debug\CLINIC_DATABASE.mdf
+H:\My Clinic(v5)\My Clinic\bin\Debug\My Clinic.exe
+H:\My Clinic(v5)\My Clinic\bin\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\bin\Debug\My Clinic.exe.config
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My Clinic.pdb
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My Clinic.csprojResolveAssemblyReference.cache
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.Admin_Form.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.All_Patients_form.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.All_Staff_Form.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.Login.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.Properties.Resources.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.Recover_Your_Account.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.Recovery_Number.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.ResetYourData.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My_Clinic.User.resources
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\obj\Debug\My Clinic.csproj.GenerateResource.Cache
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\bin\Debug\CLINIC_DATABASE_log.ldf
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\bin\Debug\CLINIC_DATABASE.mdf
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\bin\Debug\My Clinic.exe
+C:\Users\dr\Desktop\My Clinic(v5)\My Clinic\bin\Debug\My Clinic.pdb
